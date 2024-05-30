@@ -1,4 +1,4 @@
-# CompNetProject
+# Computer Network Project
 
 
 LoRaWan'ı indirdikten sonra ns-allinone-3.41/ns-3.41/src/ dizinine lorawan klasörünü ekleyin.
